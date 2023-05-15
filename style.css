@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
+
+.logo img {
+
+  width: 300px;
+  margin-left: 40%;
+  margin-top: 15%;
+}
+.shop a h1{
+  color: #545fa9;
+  padding: 2.5px; 
+  width: 3.7%;
+}
+.shop {
+  margin-left: 40%;
+  font-size: 7px;
+  margin-top: 40px;
+}
+
+.shop a h1:hover {
+  background-color:  #545fa9;
+  color: #000;
+  
+}
+
+.magazine a h1{
+  color: #e99634;
+  padding: 2.5px; 
+  width: 7%;
+}
+
+.magazine {
+  font-size: 7px;
+  margin-left: 40%;
+  margin-top: 15px;
+}
+
+.magazine a h1:hover {
+  background-color: #e99634;
+  color: #000;
+
+}
+
+.lookbook a h1{
+  color:  #e75863;
+  padding: 2.5px; 
+  display: block;
+  width: 7%;
+}
+
+.lookbook {
+  font-size: 7px;
+  margin-left: 40%;
+  margin-top: 10px;
+ 
+}
+
+.lookbook a h1:hover {
+  background-color:  #e75863;
+  color: #000;
+
+    
+}
+
+.preview a h1{
+  color: #55883c;
+  padding: 2.5px;   
+  display: block;
+  width: 21.5%;
+}
+
+.preview {
+  font-size: 7px;
+  margin-left: 40%;
+  margin-top: 10px;
+ 
+}
+
+.preview a h1:hover {
+  background-color: #55883c;
+  color: #000;
+
+    
+}
+
+.about-us a h1{
+  color: #562e26;
+  padding: 2.5px; 
+  display: block;
+  width: 7%;
+}
+
+.about-us {
+  font-size: 7px;
+  margin-left: 40%;
+  margin-top: 10px;
+ 
+}
+
+.about-us a h1:hover {
+  background-color: #562e26;
+  color: #000;
+}
+
+
+.teaser a h1{
+  color: #623469;
+  padding: 2.5px; 
+  display: block;
+  width: 5%;
+}
+
+.teaser {
+  font-size: 7.5px;
+  margin-left: 40%;
+  margin-top: 10px;
+ 
+}
+
+.teaser a h1:hover {
+  background-color: #623469;
+  color: #000;
+}
+
+.icon img {
+  float: left;
+  
+
+  margin-top: 12%;
+  padding: 5px;
+
+}
+
+.icon .fb img{
+  width: 40px;
+  margin-left: 45%;
+}
+
+.icon .ig img {
+  width: 33px;
+  padding-top: 8px;
+ 
+}
+.icon .yt img {
+  width: 39px;
+  padding-top: 6px;
+  margin-left: 1.5px;
+}
+
+.copy {
+  float: left;
+  margin-top: 14%;
+  margin-left: -11%;
+  width: 12%;
+}
+.copy img {
+  width: 15px;
+  
+}
+.copy h3{
+  color: #fff;
+  font-size: 12px;
+  margin-top: 26px;
+
+}
